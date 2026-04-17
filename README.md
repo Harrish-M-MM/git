@@ -19,3 +19,7 @@ If you are developing a production application...
 # This is a main-feature branch 001
 # This is a another new content to add both main and main-feature branch
 # This is a bug branch (TO) This is a new_bug branch
+======
+## This bug branch add in new-bug except another branch
+## This is bug branch
+## use cherry pick in new-bug
