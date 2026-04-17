@@ -16,10 +16,11 @@ The React Compiler is not enabled on this template...
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 If you are developing a production application...
 
-# This is a main-feature branch 001
-# This is a another new content to add both main and main-feature branch
-# This is a bug branch (TO) This is a new_bug branch
+lkfrbqiuhqothofidhaptomhfodiaeinmfoictbmsotivubmcoiuabvogiubctosinyrmvoihgroisynvposntpoivn
 
-# This is a bug branch
 
 bug branch add in main
+
+" This is stash commands *
+
+inly bug can merge in main
