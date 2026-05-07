@@ -19,4 +19,4 @@ If you are developing a production application...
 ## This bug branch add in main except another branch
 ## This is bug branch
 
-## This is main branch
+## This is main branch && Add one extra line for the reset vs revert diff
