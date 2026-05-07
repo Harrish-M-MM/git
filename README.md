@@ -20,3 +20,5 @@ If you are developing a production application...
 ## This is bug branch
 
 ## This is main branch
+
+## Add one extra line for the reset vs revert diff
